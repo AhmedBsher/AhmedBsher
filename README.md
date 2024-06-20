@@ -21,7 +21,7 @@ When I'm not coding, you can find me studying or exploring new tech trends.
 📫 Connect with Me
   Email: ahmedbsher999@gmail.com
   LinkedIn: www.linkedin.com/in/ahmed-bsher-921242232
-  Twitter: twitter.com/ahmedbsher_
+  Twitter: https://twitter.com/ahmedbsher_
   Website: https://ahmedbsher.github.io/My-Portfolio/
 
 🎨 Fun Facts
