@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">A PASSIONATE FRONT-END DEVELOPER</h3>
+<h3 align="center">A PASSIONATE FRONT-END DEVELOPER AND AN ALSO A MECHANICAL ENGINEER</h3>
 
 <a target="_blank" href="https://github.com/AhmedBsher"><img src="https://github.com/AhmedBsher/AhmedBsher/blob/main/panner.jpg"/></a>
 
