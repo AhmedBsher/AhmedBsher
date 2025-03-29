@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">A passionate Front-End Developer</h3>
+<h3 align="center">A PASSIONATE FRONT-END DEVELOPER</h3>
 
 <a target="_blank" href="https://github.com/AhmedBsher"><img src="https://github.com/AhmedBsher/AhmedBsher/blob/main/panner.jpg"/></a>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedbsher&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedbsher" /> </p>
 
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
+	<a>
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=Shopify+Expert;Frontend+Developer;React%20|%20Gatsby%20|%20Next+Enthusiast;DL%20|%20AI%20|%20ML%20Applications;Always%20developing%20my%20skills&center=true&width=380&height=45">
 	</a>
 </p>
@@ -19,7 +19,8 @@
 🌟 Main languages: Javascript, Python, HTML, CSS
 </pre>
 
-<h3 align="center">Connect with me:</h3>
+<h1 align="center">Connect with me:</h1>
+<hr>
 <p align="center">
 <a href="https://twitter.com/ahmedbsher_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedbsher_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmed-bsher-921242232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-bsher-921242232" height="30" width="40" /></a>
