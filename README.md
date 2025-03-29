@@ -5,11 +5,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedbsher&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedbsher" /> </p>
 
-<p align="center">
-	<a>
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Shopify+Expert;Frontend+Developer;React%20|%20Gatsby%20|%20Next+Enthusiast;DL%20|%20AI%20|%20ML%20Applications;Always%20developing%20my%20skills&center=true&width=380&height=45">
-	</a>
-</p>
 
 <pre>💻 I am developing my skills as a Frontend Developer | Enthuastic about new technologies
 📚 I study a Bachelors in Mechanical Engineering  
