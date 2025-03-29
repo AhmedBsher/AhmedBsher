@@ -8,8 +8,7 @@
 
 <pre>💻 I am developing my skills as a Frontend Developer | Enthuastic about new technologies
 📚 I study a Bachelors in Mechanical Engineering  
-📝 I have a strong interest in building Frontend Uis for ML applications
-🔭 Working on Shopify Themes and React websites using Gatsby.js
+📝 I have a strong interest in building Frontend wepbages
 🌱 Focusing on Learning about customer needs and making their lives easier
 🌟 Main languages: Javascript, Python, HTML, CSS
 </pre>
