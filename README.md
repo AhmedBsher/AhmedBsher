@@ -1,15 +1,22 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">A passionate Front-End Developer</h3>
 
+<a target="_blank" href="https://github.com/AhmedBsher"><img src="https://github.com/AhmedBsher/AhmedBsher/blob/main/panner.jpg"/></a>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedbsher&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedbsher" /> </p>
 
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Shopify+Expert;Frontend+Developer;React%20|%20Gatsby%20|%20Next+Enthusiast;DL%20|%20AI%20|%20ML%20Applications;Always%20developing%20my%20skills&center=true&width=380&height=45">
+	</a>
+</p>
+
 <pre>💻 I am developing my skills as a Frontend Developer | Enthuastic about new technologies
-📚 I have a Bachelors in Computer Science and a Masters in Artificial Intelligence &amp; Deep Learning
+📚 I study a Bachelors in Mechanical Engineering  
 📝 I have a strong interest in building Frontend Uis for ML applications
 🔭 Working on Shopify Themes and React websites using Gatsby.js
 🌱 Focusing on Learning about customer needs and making their lives easier
-🌟 Main languages: Javascript, Python
-🚩 Interested in Full Stack Machine Learning Application development
+🌟 Main languages: Javascript, Python, HTML, CSS
 </pre>
 
 <h3 align="center">Connect with me:</h3>
@@ -32,3 +39,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedbsher&show_icons=true&locale=en&layout=compact" alt="ahmedbsher" /></p>
+
+<p align="center">
+  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
+</p>
