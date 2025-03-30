@@ -80,7 +80,7 @@
         <p><strong>HTML5, CSS3, &amp; Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Personal Finance Tracker</h3>
+      <h3 align="center">Numerical Analysis in Mechanical Engineering</h3>
         <p align="center">
         	<br>
   			<a href="https://github.com/AhmedBsher/Numerical-analysis-in-Mechanical-Engineering" target="_blank">
