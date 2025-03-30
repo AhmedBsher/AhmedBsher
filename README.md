@@ -92,6 +92,30 @@
 		</p>
     </td>
   </tr><tr>
+  <td width="50%" valign="top">
+      <h3 align="center">Python-Labs</h3>
+        <p align="center">
+        	<br>
+  			<a href="https://github.com/AhmedBsher/Python-Labs" target="_blank">
+    			<img src="https://img.shields.io/static/v1?label=|&amp;message=REPO&amp;color=f&amp;style=plastic&amp;logo=github&amp;logo-color=white">
+  			</a> 
+      	</p>
+        <p><strong>Python</strong> - Scripts :
+			This collection of Python scripts and projects showcases the various exercises and labs completed during my engineering coursework. These projects cover fundamental and advanced Python programming concepts,
+		</p>
+    </td>
+	<td width="50%" valign="top">
+      <h3 align="center">Natural Language Processing</h3>
+        <p align="center">
+        	<br>
+  			<a href="https://github.com/AhmedBsher/Natural-Language-Processing-NLP-?tab=readme-ov-file" target="_blank">
+    			<img src="https://img.shields.io/static/v1?label=|&amp;message=REPO&amp;color=f&amp;style=plastic&amp;logo=github&amp;logo-color=white">
+  			</a> 
+      	</p>
+        <p><strong>Python</strong> - Project :
+			This Python-based sentiment analysis tool integrates NLTK for sentiment analysis using VADER, SpaCy for entity recognition, and Plotly for visualization. It offers features like sentiment timeline analysis, word cloud generation for positive and negative sentiments, and entity filtering by types such as PERSON, ORG, GPE, and DATE.
+		</p>
+    </td>
 </tbody></table>
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedbsher&show_icons=true&locale=en&layout=compact" alt="ahmedbsher" /></p>
